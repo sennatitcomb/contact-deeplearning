@@ -1,6 +1,7 @@
 # Contact Database Format
 Transformer model API to process and validate CSV data
 * This code utilizes a mix of good and bad data. Some of which was sampled and cleaned from Kaggle (https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset/data)
+* The performance of predictions will change depending on the quality and amount of data that the model uses to train.
 
 Key Steps:
 

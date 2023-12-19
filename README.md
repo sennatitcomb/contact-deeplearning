@@ -6,7 +6,7 @@ Transformer model API to process and validate CSV data, input text
 Key Steps:
 
 1. Model and Tokenizer Initialization:
-The script initializes a pre-trained BERT-based model for sequence classification and its corresponding tokenizer from the Hugging Face Transformers library.
+The script initializes a pre-trained BERT-based model for sequence classification and its corresponding tokenizer from the Hugging Face Transformers library using PyTorch.
 
 2. CSV File Processing:
 The script reads a CSV file containing data with columns such as "First Name," "Last Name," "Email," "Phone," and "Title."
